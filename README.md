@@ -134,19 +134,7 @@ poetry env use $(pyenv which python)
 poetry install
 Commands not found:
 Verify pyenv and poetry are in your PATH (see steps 2 and 4).
-Project Structure
-text
 
-Collapse
+## Contributing
 
-Wrap
-
-Copy
-pdf-import-starter/
-├── migrations/ # Database migrations (if using Tortoise ORM)
-├── src/ # Source code (if applicable)
-├── tests/ # Test files (if applicable)
-├── pyproject.toml # Dependency and tool configuration
-└── README.md # This file
-Contributing
 Feel free to submit issues or pull requests to improve this starter project!
